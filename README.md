@@ -39,7 +39,7 @@ To complete Part I, fulfill the following requirements:
 
 To complete Part II, fulfill the following requirements:
 
-1. Create an ```audio``` element with an ```id``` of "sound". setTimeout the ```src``` of this element to the correct path to the frog-sound.wav file.
+1. Create an ```audio``` element with an ```id``` of "sound". Set the ```src``` of this element to the correct path to the frog-sound.wav file.
 
 2. Create FIVE ```img``` elements. Each element should have a ```src``` with the correct path to the bush.png image and an ```id``` of "bush1", "bush2", "bush3", "bush4", and "bush5" for each element. This is an example of one of them.
 
