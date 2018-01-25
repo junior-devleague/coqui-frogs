@@ -1,6 +1,6 @@
 # coqui-frogs
 
-Do you here those Coqui Frogs?
+Do you hear those Coqui Frogs?
 
 ![Final Product Example](https://github.com/junior-devleague/coqui-frogs/blob/master/assets/example.png)
 
@@ -17,6 +17,7 @@ To complete this project, students should have the following:
 ## Concepts
 
 JS | Description
+---| -----------
 setInterval | A method that calls a function every so many milliseconds. Resource: https://www.w3schools.com/jsref/met_win_setinterval.asp
 
 ## Your Challenge
@@ -113,7 +114,7 @@ When the window loads, all your code will be run!
 ``` javascript
 frog.style.bottom = "200px";
 
-// Pattern: [element].style.[property] = "[value]"; 
+// Pattern: [element].style.[property] = "[value]";
 ```
 This will set the frog 200px away from the bottom of the window.
 
