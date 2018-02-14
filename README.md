@@ -100,12 +100,32 @@ When the window loads, all your code will be run!
 
 2. Create a ```variable``` called "sound" that will store and get the audio element by id.
 
+``` JavaScript
+
+var sound = document.getElementById('putyourIDinhere!');
+```
+
 3. Create a ```variable``` called "frog" that will store and get the frog image by id.
 
-4. Create a function called ```frogCroak```. In this function, make the sound play!
+``` JavaScript
+var frog = document.getElementById('putyourIDinhere!');
+```
+
+4. Create a function called ```frogCroak```. In this function, make the sound play! Look up how to play audio in JavaScript: https://www.w3schools.com/jsref/met_audio_play.asp.
+
+``` JavaScript
+function frogCroak() {
+  // how do we make our sound play?
+}
+
+```
 
 5. Create a ```setInterval``` method that will run this function every 3000 milliseconds (3 seconds). Resource: https://www.w3schools.com/jsref/met_win_setinterval.asp
 
+``` JavaScript
+
+setInterval(nameOfFunction, milliseconds); 
+```
 ---
 
 ## Stretch Goals
