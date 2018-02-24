@@ -56,6 +56,7 @@ To complete Part II, fulfill the following requirements:
 To complete Part III, fulfill the following requirements:
 1. Target the ```class``` of "bush".
 * Set the ```position``` to a value that will make our images fixed to the location we want. Which value would that be? Resource: https://www.w3schools.com/cssref/pr_class_position.asp
+* Set the ```bottom``` to 0px.
 
 2. Target the ```id``` of "bush1".
 * Set the ```width``` to 480px.
